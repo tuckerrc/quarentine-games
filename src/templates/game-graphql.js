@@ -1,5 +1,6 @@
 import React from "react"
 import { graphql } from "gatsby"
+import Layout from "../components/layout"
 
 export const query = graphql`
   query($slug: String!) {
@@ -26,12 +27,14 @@ const Game = ({ data }) => {
   })
 
   return (
-    <div>
-      <h1>{game.name}</h1>
-      <h2>{game.game_category}</h2>
-      <p>{game.notes}</p>
-      <ul>{urllist}</ul>
-    </div>
+    <Layout>
+      <div>
+        <h1>{game.name}</h1>
+        <h2>{game.game_category}</h2>
+        <p>{game.notes}</p>
+        <ul>{urllist}</ul>
+      </div>
+    </Layout>
   )
 }
 
