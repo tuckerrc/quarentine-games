@@ -1,0 +1,16 @@
+{
+    "date_added": "",
+    "game_category": "BOARD GAMES",
+    "learning_curve": "",
+    "max_players": "10",
+    "min_age": "6",
+    "min_players": "2",
+    "name": "Yahtzee",
+    "notes": "",
+    "popularity": "",
+    "slug": "yahtzee",
+    "sub_category": "CLASSIC",
+    "urls": [
+        "https://cardgames.io/yahtzee/"
+    ]
+}

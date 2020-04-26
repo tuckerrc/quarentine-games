@@ -1,0 +1,16 @@
+{
+    "date_added": "",
+    "game_category": "PUZZLES",
+    "learning_curve": "",
+    "max_players": "99",
+    "min_age": "",
+    "min_players": "1",
+    "name": "Puzzable",
+    "notes": "Upload custom images which are translated into jigsaw puzzles that can be collaboratively solved online",
+    "popularity": "",
+    "slug": "puzzable",
+    "sub_category": "JIGSAW",
+    "urls": [
+        "http://puzzable.org/"
+    ]
+}

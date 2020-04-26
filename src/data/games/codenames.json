@@ -1,0 +1,22 @@
+{
+    "date_added": "",
+    "game_category": "WORD GAMES",
+    "learning_curve": "",
+    "max_players": "8",
+    "min_age": "",
+    "min_players": "4",
+    "name": "Codenames",
+    "notes": "",
+    "popularity": "High",
+    "slug": "codenames",
+    "sub_category": "WORD GAMES",
+    "urls": [
+        "http://codewordsgame.com/",
+        "https://www.horsepaste.com/",
+        "https://siemanko.github.io/words2/",
+        "https://netgames.io/games/codenames/",
+        "https://codewords.tv/home",
+        "https://ninjabunny.github.io/KodeNames",
+        "https://captnemo.in/codenames/"
+    ]
+}

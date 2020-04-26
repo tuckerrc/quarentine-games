@@ -1,0 +1,18 @@
+{
+    "date_added": "",
+    "game_category": "ACTION",
+    "learning_curve": "Easy",
+    "max_players": "99",
+    "min_age": "",
+    "min_players": "1",
+    "name": "Slither.io (and like)",
+    "notes": "Extremely popular and addictive, although you'll need to have low-latency internet to be competitive. Check out Slither.io and Agar.io",
+    "popularity": "High",
+    "slug": "slitherio-and-like",
+    "sub_category": "MMORPG",
+    "urls": [
+        "https://agar.io/",
+        "https://curvefever.pro/",
+        "https://slither.io/"
+    ]
+}

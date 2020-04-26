@@ -1,0 +1,21 @@
+{
+    "date_added": "",
+    "game_category": "DRAWING GAMES",
+    "learning_curve": "Easy",
+    "max_players": "99",
+    "min_age": "",
+    "min_players": "2",
+    "name": "Pictionary",
+    "notes": "",
+    "popularity": "High",
+    "slug": "pictionary",
+    "sub_category": "",
+    "urls": [
+        "https://sketchful.io/",
+        "https://skribbl.io/",
+        "https://gartic.io/",
+        "https://www.drawasaurus.org/",
+        "https://www.drawize.com/",
+        "https://www.guessing.io/"
+    ]
+}

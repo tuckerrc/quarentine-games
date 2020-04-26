@@ -1,0 +1,16 @@
+{
+    "date_added": "",
+    "game_category": "CARD GAMES",
+    "learning_curve": "Easy",
+    "max_players": "",
+    "min_age": "",
+    "min_players": "",
+    "name": "Fish",
+    "notes": "",
+    "popularity": "",
+    "slug": "fish",
+    "sub_category": "",
+    "urls": [
+        "https://playfish.herokuapp.com/"
+    ]
+}

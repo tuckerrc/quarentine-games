@@ -1,0 +1,16 @@
+{
+    "date_added": "",
+    "game_category": "PUZZLES",
+    "learning_curve": "",
+    "max_players": "1",
+    "min_age": "",
+    "min_players": "1",
+    "name": "Nonograms",
+    "notes": "Japanese crosswords",
+    "popularity": "",
+    "slug": "nonograms",
+    "sub_category": "WORD PUZZLE",
+    "urls": [
+        "https://www.nonograms.org/"
+    ]
+}

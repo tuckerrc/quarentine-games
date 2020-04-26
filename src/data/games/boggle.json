@@ -1,0 +1,18 @@
+{
+    "date_added": "",
+    "game_category": "WORD GAMES",
+    "learning_curve": "Easy",
+    "max_players": "99",
+    "min_age": "",
+    "min_players": "2",
+    "name": "Boggle",
+    "notes": "Wordsplay.net is a long-running, free, and extremely good implementation of Boggle. You can create a team of friends and compete against others.",
+    "popularity": "High",
+    "slug": "boggle",
+    "sub_category": "WORD GAMES",
+    "urls": [
+        "http://www.wordsplay.net/",
+        "https://wordtwist.puzzlebaron.com/init.php",
+        "https://www.wordplays.com/boggle"
+    ]
+}

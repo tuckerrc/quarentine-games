@@ -1,0 +1,16 @@
+{
+    "date_added": "",
+    "game_category": "BOARD GAMES",
+    "learning_curve": "Easy",
+    "max_players": "2",
+    "min_age": "8",
+    "min_players": "2",
+    "name": "Battleship",
+    "notes": "",
+    "popularity": "High",
+    "slug": "battleship",
+    "sub_category": "CLASSIC",
+    "urls": [
+        "http://en.battleship-game.org/"
+    ]
+}

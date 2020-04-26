@@ -1,0 +1,16 @@
+{
+    "date_added": "4/20",
+    "game_category": "PUZZLES",
+    "learning_curve": "Easy",
+    "max_players": "1",
+    "min_age": "",
+    "min_players": "1",
+    "name": "Tower Join",
+    "notes": "Inspired by Tower of Hanoi, TOWER JOIN is a puzzle game in which the player must move colored pieces, that are stacked onto pegs, to carefully combine them in the correct order.",
+    "popularity": "",
+    "slug": "tower-join",
+    "sub_category": "",
+    "urls": [
+        "https://thexp.itch.io/tower-join"
+    ]
+}

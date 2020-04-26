@@ -1,0 +1,17 @@
+{
+    "date_added": "",
+    "game_category": "BOARD GAMES",
+    "learning_curve": "Difficult",
+    "max_players": "4",
+    "min_age": "10",
+    "min_players": "3",
+    "name": "Settlers of Catan",
+    "notes": "",
+    "popularity": "High",
+    "slug": "settlers-of-catan",
+    "sub_category": "STRATEGY",
+    "urls": [
+        "https://colonist.io/",
+        "https://catanuniverse.com/en/game/"
+    ]
+}

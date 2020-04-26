@@ -1,0 +1,17 @@
+{
+    "date_added": "",
+    "game_category": "BOARD GAMES",
+    "learning_curve": "Medium",
+    "max_players": "2",
+    "min_age": "6",
+    "min_players": "2",
+    "name": "Chess",
+    "notes": "",
+    "popularity": "High",
+    "slug": "chess",
+    "sub_category": "CLASSIC",
+    "urls": [
+        "https://lichess.org/",
+        "https://www.playok.com/en/chess/"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "date_added": "",
+    "game_category": "PUZZLES",
+    "learning_curve": "Easy",
+    "max_players": "1",
+    "min_age": "",
+    "min_players": "1",
+    "name": "Sudoku",
+    "notes": "",
+    "popularity": "High",
+    "slug": "sudoku",
+    "sub_category": "",
+    "urls": [
+        "https://sudoku.com/",
+        "https://www.dailykillersudoku.com/"
+    ]
+}

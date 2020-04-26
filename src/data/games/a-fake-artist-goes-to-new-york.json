@@ -1,0 +1,16 @@
+{
+    "date_added": "",
+    "game_category": "DRAWING GAMES",
+    "learning_curve": "",
+    "max_players": "99",
+    "min_age": "",
+    "min_players": "4",
+    "name": "A Fake Artist Goes to New York",
+    "notes": "",
+    "popularity": "",
+    "slug": "a-fake-artist-goes-to-new-york",
+    "sub_category": "",
+    "urls": [
+        "https://kc-fakeartistonline.herokuapp.com/"
+    ]
+}

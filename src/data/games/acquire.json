@@ -1,0 +1,16 @@
+{
+    "date_added": "",
+    "game_category": "BOARD GAMES",
+    "learning_curve": "Medium",
+    "max_players": "6",
+    "min_age": "12",
+    "min_players": "2",
+    "name": "Acquire",
+    "notes": "Cult classic, rigorously implemented but lacking any design touches, so it feels like you're playing on a spreadsheet",
+    "popularity": "Low",
+    "slug": "acquire",
+    "sub_category": "STRATEGY",
+    "urls": [
+        "https://acquire.tlstyer.com/"
+    ]
+}
