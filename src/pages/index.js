@@ -12,7 +12,7 @@ const IndexPage = ({
   const Games = edges
     .map(edge => <GameCard key={edge.node.id} game={edge.node} />)
   return <Layout>
-    <div>{Games}</div>
+    <div class="columns is-multiline is-mobile">{Games}</div>
   </Layout>
 }
 
@@ -25,6 +25,12 @@ export const gameQuery = graphql`
         node {
           name
           slug
+          game_category
+          sub_category
+          max_players
+          min_players
+          min_age
+          urls
         }
       }
     }
