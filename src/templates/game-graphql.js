@@ -23,7 +23,7 @@ const Game = ({ data }) => {
   const game = data.gamesJson
 
   const urllist = game.urls.map(function(url, id) {
-    return <li key={id}><a href={url} target="_blank">{url}</a></li>;
+    return <li key={id}><a href={url}>{url}</a></li>;
   })
 
   return (

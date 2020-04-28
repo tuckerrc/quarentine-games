@@ -9,7 +9,7 @@ const GameCard = ({ game }) => {
     <div className="card">
       <div className="card-header">
         <Link
-          to={"game/" + game.slug}
+          to={`/game/${game.slug}`}
           className="card-header-title"
         >
           {game.name}
