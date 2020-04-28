@@ -22,8 +22,8 @@ export const query = graphql`
 const Game = ({ data }) => {
   const game = data.gamesJson
 
-  const urllist = game.urls.map(function(url) {
-    return <li><a href={url} target="_blank">{url}</a></li>;
+  const urllist = game.urls.map(function(url, id) {
+    return <li key={id}><a href={url} target="_blank">{url}</a></li>;
   })
 
   return (

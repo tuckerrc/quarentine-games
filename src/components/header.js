@@ -4,9 +4,9 @@ import React from "react"
 
 const Header = ({ siteTitle }) => (
   <header>
-    <nav class="navbar is-dark has-shadow" role="navigation" aria-label="main navigation">
-      <div class="container">
-        <div class="navbar-brand">
+    <nav className="navbar is-dark has-shadow" role="navigation" aria-label="main navigation">
+      <div className="container">
+        <div className="navbar-brand">
           <Link
             to="/"
             className="navbar-item"

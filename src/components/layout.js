@@ -26,14 +26,14 @@ const Layout = ({ children }) => {
   return (
     <>
       <Header siteTitle={data.site.siteMetadata.title} />
-      <section class="section">
-        <div class="container">
+      <section className="section">
+        <div className="container">
           <main>{children}</main>
         </div>
       </section>
-      <section class="section-footer">
-        <footer class="footer">
-          <div class="container">
+      <section className="section-footer">
+        <footer className="footer">
+          <div className="container">
           © {new Date().getFullYear()}, Built with
           {` `}
           <a href="https://www.gatsbyjs.org">Gatsby</a>
